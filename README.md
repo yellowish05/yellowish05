@@ -11,7 +11,7 @@
 
 </div>
 
-With 6 years of full-stack web and mobile app development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
+With 4 years of full-stack web and mobile app development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT.
 <!-- 
 1. Web Development: 
   PHP(Laravel, CI, Wordpress) <br /> 
@@ -116,32 +116,10 @@ while (me.isAlive()) {
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
   <a href="https://github.com/yellowish05">
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowish05&theme=algolia&currStreakNum=fe8dab&currStreakLabel=fe8dab" align="center" /> 
-    <br />
-    <br /> -->
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowish05&theme=algolia&currStreakNum=fe8dab&currStreakLabel=fe8dab"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yellowish05&layout=compact&langs_count=8&theme=algolia"/>
+    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yellowish05&layout=compact&langs_count=8&theme=algolia"/> -->
   </a>
 </p>
 
-<!-- <p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yellowish05&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-</p> -->
 
-<!-- <br>
-<div align="center">
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=yellowish05&theme=juicyfresh&no-bg=true" /> -->
-
-<!-- <h2 align="center"> 📊 Stats </h2>
-  [![Metrics](https://metrics.lecoq.io/yellowish05?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/yellowish05)
-</div> -->
-
-
-<!-- <div align="left">
-  <p>
-  Gmail - <a href="mailto:need91dev@gmail.com">need91dev@gmail.com</a>
-  </p>
-</div> -->
   
