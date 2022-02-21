@@ -49,11 +49,7 @@
   </tr>
 </table> -->
 
-As a developer focused on customer satisfaction, I manage all aspects of web and mobile development-from concept to requirements definition, design, development, launch, maintenance and user support.
-I enjoy the client-facing role and working closely with members to produce high-quality deliverables.
 
-If my skills match your requirements, please contact me. 
-Thanks.
 
 ### - Languages and Tools...
 
